@@ -2,32 +2,32 @@
    "UserGifts":{
       "1447107304":[
          {
-            "Id":9008,
+            "Id":0,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":699,
+            "Currency":696969,
             "Xp":0,
-            "Level":999,
+            "Level":1,
             "GiftRarity":0,
-            "Message":"BAD",
-            "Context":0
+            "Message":"DIEE",
+            "Context":2
          },
          {
-             "Id":9008,
+             "Id":0,
             "AvatarItemDesc":"",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":699,
+            "Currency":696969,
             "Xp":0,
-            "Level":99,
+            "Level":1,
             "GiftRarity":0,
-            "Message":"BAD",
-            "Context":0
+            "Message":"DIEEE",
+            "Context":2
          }
       ]
    }
