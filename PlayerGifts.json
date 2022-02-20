@@ -9,11 +9,11 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":69,
+            "Currency":696999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Message Goes Here",
+            "Message":"BAD",
             "Context":2
          },
          {
@@ -23,11 +23,11 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":69,
+            "Currency":696999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Message Goes Here",
+            "Message":"BAD",
             "Context":2
          }
       ]
