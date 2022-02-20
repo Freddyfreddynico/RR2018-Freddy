@@ -1,28 +1,15 @@
-
+{
+   "LastUpdated":"2021-10-17T19:33:35.5686476+10:00",
    "UserGifts":{
-      "1447107304":[
+      "69420":[
          {
             "Id":9008,
-            "AvatarItemDesc":"24c4404a-839f-46bd-98b6-6848d747a98b,c1e430c5-fd8d-4032-9e3f-8d87cc8784da,,",
+            "AvatarItemDesc":"1fd5353-b439-4a23-b471-bfb99b8154d7,97938f4c-52b8-4c85-8575-856654666316,,",
             "ConsumableItemDesc":"",
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":6999,
-            "Xp":0,
-            "Level":0,
-            "GiftRarity":0,
-            "Message":"Message Goes Here",
-            "Context":2
-         },
-         {
-             "Id":9008,
-            "AvatarItemDesc":"",
-            "ConsumableItemDesc":"",
-            "EquipmentPrefabName":"",
-            "EquipmentModificationGuid":"",
-            "CurrencyType":2,
-            "Currency":1000,
+            "Currency":9999999999,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
