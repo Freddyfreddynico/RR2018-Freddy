@@ -152,7 +152,7 @@
         "RoomId": 6,
         "RoomSceneLocationId": "3d474b26-26f7-45e9-9a36-9b02847d5e6f",
         "Name": "dodgeball",
-        "IsSandbox": false,
+        "IsSandbox": true,
         "DataBlobName": "",
         "MaxPlayers": 20,
         "CanMatchmakeInto": true,
