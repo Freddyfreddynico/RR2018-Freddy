@@ -8,9 +8,9 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":696969,
+            "Currency":10000,
             "Xp":0,
-            "Level":1,
+            "Level":0,
             "GiftRarity":0,
             "Message":"DIEE",
             "Context":2
@@ -22,9 +22,9 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":696969,
+            "Currency":10000,
             "Xp":0,
-            "Level":1,
+            "Level":0,
             "GiftRarity":0,
             "Message":"DIEEE",
             "Context":2
