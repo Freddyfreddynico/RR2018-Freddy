@@ -805,7 +805,7 @@
   },
   "RecRoomVaultsTestRoom": {
     "Room": {
-      "RoomId": 1,
+      "RoomId": 4436003,
       "Name": "RecRoomVaultsTestRoom",
       "Description": "This is a test room to show custom rooms working!",
       "CreatorPlayerId": 1447107304,
@@ -832,7 +832,7 @@
         "DataModifiedAt": "2021-05-23T15:37:00.2228847+10:00"
       }
     ],
-    "CoOwners": [],
+    "CoOwners": [1447107304],
     "Hosts": [1447107304],
     "CheerCount": 1,
     "FavoriteCount": 1,
