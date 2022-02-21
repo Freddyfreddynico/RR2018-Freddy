@@ -15,9 +15,9 @@
       "GiftDrops": [
         {
           "GiftDropId": 666,
-          "FriendlyName": "Mobster (Fashion)",
+          "FriendlyName": "TEXT (Test)",
           "Tooltip": "",
-          "AvatarItemDesc": "da55bfc3-47b7-46f6-b548-7fb2c2a5e0bf,,,",
+          "AvatarItemDesc": "bfd9c70b-9ad8-4f47-a840-c03231f9ad41,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
