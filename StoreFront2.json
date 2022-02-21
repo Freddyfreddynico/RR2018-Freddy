@@ -9,7 +9,7 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 10000
+          "Price": 1
         }
       ],
       "GiftDrops": [
@@ -17,7 +17,7 @@
           "GiftDropId": 666,
           "FriendlyName": "Mobster (Fashion)",
           "Tooltip": "",
-          "AvatarItemDesc": "76369aef-aeda-46d2-996a-cd00594d0543,pWZ9SuLPikOkfKmHcj0PXg,P12CUkIg8EuFihGQsvPlxg,",
+          "AvatarItemDesc": "da55bfc3-47b7-46f6-b548-7fb2c2a5e0bf,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
           "EquipmentModificationGuid": "",
