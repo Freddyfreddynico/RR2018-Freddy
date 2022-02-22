@@ -14,7 +14,7 @@
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
          }
-         {
+         {,
             "ChallengeId":142,
             "Name":"CompleteCCC",
             "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"},
@@ -22,7 +22,7 @@
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
          }
-         {
+         {,
             "ChallengeId":142,
             "Name":"CompleteCCC",
             "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"},
