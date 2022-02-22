@@ -9,13 +9,13 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 1
+          "Price": 9999999
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 666,
-          "FriendlyName": "TEXT (Test)",
+          "FriendlyName": "Your Mom Gloves",
           "Tooltip": "",
           "AvatarItemDesc": "b9e0f03b-2609-4911-82e9-1e324dbbe8be,,,",
           "ConsumableItemDesc": "",
