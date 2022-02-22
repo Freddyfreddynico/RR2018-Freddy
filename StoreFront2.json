@@ -9,18 +9,18 @@
       "Prices": [
         {
           "CurrencyType": 2,
-          "Price": 1
+          "Price": 100
         }
       ],
       "GiftDrops": [
         {
           "GiftDropId": 666,
-          "FriendlyName": "test",
+          "FriendlyName": "Your Mom gloves",
           "Tooltip": "",
-          "AvatarItemDesc": "",
+          "AvatarItemDesc": "74365234-cb72-409d-8cf5-9a7209f707e1,,,",
           "ConsumableItemDesc": "",
           "EquipmentPrefabName": "",
-          "EquipmentModificationGuid": "bc4254be-60e0-4cc5-a233-6a0bd4137118",
+          "EquipmentModificationGuid": "",
           "Rarity": 30,
           "IsQuery": false,
           "Unique": false,
