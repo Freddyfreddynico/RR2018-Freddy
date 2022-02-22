@@ -2,35 +2,35 @@
    {
       "challengeMapId":3,
       "completeAll":true,
-      "startAt":"2021-07-17T08:24:38+00:00",
-      "endAt":"2021-07-25T08:24:38+00:00",
-      "serverTime":"2021-07-17T08:24:38+00:00",
+      "startAt":"2025-07-17T08:24:38+00:00",
+      "endAt":"2025-07-25T08:24:38+00:00",
+      "serverTime":"2025-07-17T08:24:38+00:00",
       "challenges":[
          {
             "ChallengeId":142,
             "Name":"CompleteCCC",
-            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"},
+            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"}]}]},
             "Description":"Complete the ^CrimsonCauldron quest",
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
-         }
-         {,
+         },
+         {
             "ChallengeId":142,
             "Name":"CompleteCCC",
-            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"},
+            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"}]}]},
             "Description":"Complete the ^CrimsonCauldron quest",
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
-         }
-         {,
+         },
+         {
             "ChallengeId":142,
             "Name":"CompleteCCC",
-            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"},
+            "Config":"{ct:0,ipc:false,wc:[{ct:6,vs:2},{ct:9,vs:true,v:won},{ct:7,vs:[{l:949fa41f-4347-45c0-b7ac-489129174045"}]}]},
             "Description":"Complete the ^CrimsonCauldron quest",
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
          }
-      ]
+      ],
       "gifts":[
          {
             "GiftDropId":35465,
@@ -46,7 +46,7 @@
             "Level":1,
             "Context":4
          }
-      ]
+      ],
       "challengeThemeString":"Maker Pen",
       "challengeThemeId":3
    }
