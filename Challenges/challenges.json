@@ -30,7 +30,7 @@
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
          }
-      },
+      ]
       "gifts":[
          {
             "GiftDropId":35465,
@@ -46,7 +46,7 @@
             "Level":1,
             "Context":4
          }
-      },
+      ]
       "challengeThemeString":"Maker Pen",
       "challengeThemeId":3
    }
