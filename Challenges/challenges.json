@@ -13,7 +13,7 @@
             "Description":"Complete the ^CrimsonCauldron quest",
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
-         },
+         }
          {
             "ChallengeId":142,
             "Name":"CompleteCCC",
@@ -21,7 +21,7 @@
             "Description":"Complete the ^CrimsonCauldron quest",
             "Tooltip":"Vanquish the Witch in ^CrimsonCauldron!",
             "Complete":false
-         },
+         }
          {
             "ChallengeId":142,
             "Name":"CompleteCCC",
