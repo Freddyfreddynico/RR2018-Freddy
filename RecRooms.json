@@ -1127,6 +1127,286 @@
       }
     ]
   },
+        "Hangout2018": {
+    "Room": {
+      "RoomId":1451592,
+      "Name":"Hangout2018",
+      "Description":"TEXT TEXT TEXT!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":1451592,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+        "CrownsOfWar2018": {
+    "Room": {
+      "RoomId":2365681,
+      "Name":"CrownsOfWar2018",
+      "Description":"TEXT TEXT TEXT!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":2365681,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+        "SnowballFight": {
+    "Room": {
+      "RoomId":4044458,
+      "Name":"SnowballFight",
+      "Description":"TEXT TEXT TEXT!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":4044458,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+      "CanvasSpace": {
+    "Room": {
+      "RoomId":5701195,
+      "Name":"CanvasSpace",
+      "Description":"TEXT TEXT TEXT!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":5701195,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+        "AmongUs": {
+    "Room": {
+      "RoomId":7884749,
+      "Name":"AmongUs",
+      "Description":"Sus!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":7884749,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+        "TargetRange": {
+    "Room": {
+      "RoomId":8591934,
+      "Name":"TargetRange",
+      "Description":"TEXT TEXT TEXT!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":8591934,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
+          "Warehaus": {
+    "Room": {
+      "RoomId":7860337,
+      "Name":"Warehaus",
+      "Description":"TEXT TEXT TEXT!",
+      "CreatorPlayerId":30064,
+      "ImageName":"Activitylazershooting2018.jpg",
+      "Accessibility":1,
+      "SupportsLevelVoting":false,
+      "IsAGRoom":false,
+      "CloningAllowed":false,
+      "SupportsScreens":true,
+      "SupportsWalkVR":true,
+      "SupportsTeleportVR":true
+    },
+    "Scenes": [
+      {
+        "RoomSceneId":1,
+        "RoomId":7860337,
+        "RoomSceneLocationId":"239e676c-f12f-489f-bf3a-d4c383d692c3",
+        "Name":"Home",
+        "IsSandbox":true,
+        "DataBlobName":"ASq7FzjZiEetx5GxxR0feA.room",
+        "MaxPlayers":40,
+        "CanMatchmakeInto":true,
+        "DataModifiedAt":"2021-05-23T20:55:07.8690538-04:00"
+      }
+    ],
+    "CoOwners":[30064],
+    "Hosts":[],
+    "CheerCount":1,
+    "FavoriteCount":1,
+    "VisitCount":1,
+    "Tags": [
+      {
+        "Tag":"rro",
+        "Type":2
+      }
+    ]
+  },
     "PondShootingRange2018": {
     "Room": {
       "RoomId":47210,
