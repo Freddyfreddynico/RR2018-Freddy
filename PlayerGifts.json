@@ -9,11 +9,11 @@
             "EquipmentPrefabName":"",
             "EquipmentModificationGuid":"",
             "CurrencyType":2,
-            "Currency":0,
+            "Currency":20000,
             "Xp":0,
             "Level":0,
             "GiftRarity":0,
-            "Message":"Message Goes Here",
+            "Message":"Welcome to RecRux",
             "Context":2
          }
       ]
